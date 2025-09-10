@@ -51,3 +51,6 @@
 
 ## 输出格式要求：
 请使用Markdown格式组织回复，包含清晰的标题和分级结构。
+
+# 微信推送效果展示：
+![weixin_message.jpg](image/weixin_message.jpg)
